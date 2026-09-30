@@ -1,0 +1,8 @@
+{
+  "name": "@difuks/pkg-probe",
+  "version": "1.0.0",
+  "description": "Throwaway probe: can GITHUB_TOKEN of another owner install a public GitHub Packages npm package",
+  "main": "index.js",
+  "repository": { "type": "git", "url": "https://github.com/DiFuks/pkg-probe.git" },
+  "publishConfig": { "registry": "https://npm.pkg.github.com" }
+}
